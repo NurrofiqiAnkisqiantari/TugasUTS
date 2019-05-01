@@ -1,0 +1,7 @@
+E:\c#\responsi\responsi\obj\Debug\responsi.csprojAssemblyReference.cache
+E:\c#\responsi\responsi\obj\Debug\responsi.csproj.CoreCompileInputs.cache
+E:\c#\responsi\responsi\bin\Debug\responsi.exe.config
+E:\c#\responsi\responsi\bin\Debug\responsi.exe
+E:\c#\responsi\responsi\bin\Debug\responsi.pdb
+E:\c#\responsi\responsi\obj\Debug\responsi.exe
+E:\c#\responsi\responsi\obj\Debug\responsi.pdb
